@@ -1,7 +1,7 @@
 body {
     font-family: 'Marcellus SC', serif;
     color: #faf3bc;
-    background: #420600 url('img/background_texture.jpeg');
+    background: #420600 url("http://reubeningber.github.com/OneReadCo/img/background_texture.jpeg");
 }
 
 a {
